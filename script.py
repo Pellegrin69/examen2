@@ -7,3 +7,4 @@ c = a + b
 print(c, "est mon chiffre préféré")
 print("5ème commit")
 print("GitHub")
+print("On développe")
