@@ -1,0 +1,69 @@
+  216  mkdir examen
+  217  ls
+  218  ls
+  219  cd examen/
+  220  git init
+  221  ls
+  222  graph
+  223  touch script.py
+  224  ls
+  225  git add script.py 
+  226  git push
+  227  git push script.py
+  228  git commit -m "Hello World"
+  229  git commit -am "Je m'appelle Pierre"
+  230  git commit -am "Je vais avoir 19 ans cette année"
+  231  graph
+  232  git commit -am "Mon chiffre préféré"
+  233  graph
+  234  git commit -am "Mo5ème commit"
+  235  git remote add origin https://github.com/Pellegrin69/examen2.git
+  236  git push -u origin master
+  237  ls
+  238  git log
+  239  git commit -am "GitHub"
+  240  git push script.py
+  241  gti log
+  242  git log
+  243  git pull
+  244  git push origin 
+  245  git branch develop
+  246  git checkout develop 
+  247  git pull
+  248  git push develop
+  249  git commit -am "1er commit sur la branche develop"
+  250  git push develop
+  251  git push origin develop 
+  252  git commit -am "On développe"
+  253  git commit -am "On avance dans le codage"
+  254  git commit -am "1+2=3"
+  255  git pull
+  256  git push origin develop
+  257  git merge develop 
+  258  git merge develop master
+  259  git merge master develop
+  260  git push
+  261  git push develop
+  262  git pus master
+  263  git push master
+  264  git push origin 
+  265  git push origin devlop
+  266  git push origin develop
+  267  git push origin master
+  268  git log
+  269  graph
+  270  git add
+  271  git add script.py 
+  272  git commit -m "merge"
+  273  git checkout master
+  274  git merge develop
+  275  git puul
+  276  git pull
+  277  git push origin 
+  278  git tag "v1.0 la pratique je maitrise"
+  279  git tag v1.0 la pratique je maitrise
+  280  git tag v1.0
+  281  git push
+  282  ls
+  283  touch cmds
+  284  history > cmds
