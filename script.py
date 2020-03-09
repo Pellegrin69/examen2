@@ -1,3 +1,7 @@
 print("Hello World")
 print("Je m'appelle Pierre")
 print("Je vais avoir 19 ans cette année")
+a = 1
+b = 2
+c = a + b
+print(c, "est mon chiffre préféré")
